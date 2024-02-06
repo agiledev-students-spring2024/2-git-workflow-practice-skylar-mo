@@ -12,3 +12,5 @@ This article discusses how images have already been affected by the satellites a
 ---
 
 - The points brought up by the article are hopeful and concerning to me. I am hopeful for the progress of humanity and I find it cool that Starlink is doing what it is doing and bringing wifi to people in various situations that otherwise wouldn't have it in a feasible way, but it hurts me to know that we are potentially altering the natural atmosphere of the Earth in a sort of permanent way that might even stop us from taking good pictures of stuff in space without interference. I hope that the solutions proposed in the article work out well, as the best of both worlds would have the success of Starlink as well as no adverse side effects anywhere. - Daniel Ni (mitchytic)
+
+William Cui thinks Starlink is interesting. (William Cui)
